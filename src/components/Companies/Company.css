@@ -1,0 +1,17 @@
+.details-company{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 80px;
+  
+}
+.style-data{
+    background-color: rgb(243, 243, 231);
+    width: 150px;
+    height: 150px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    margin: 35px;
+    padding: 40px;
+}
